@@ -1,0 +1,2 @@
+*.hmm filter=lfs diff=lfs merge=lfs -text
+*.hmmb filter=lfs diff=lfs merge=lfs -text
